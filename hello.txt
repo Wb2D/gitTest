@@ -2,3 +2,7 @@
 for(var i=0; i&lt;arr.length; i++) {
 console.log(arr[i]);
 }
+while (i < z)
+{
+++i
+}
